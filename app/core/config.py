@@ -11,8 +11,8 @@ class Settings:
     DATA_PATH = "data/main_notes.pdf"
     VECTOR_DB_PATH = "vector_db/"
     
-    CHUNK_SIZE = 1000
-    CHUNK_OVERLAP = 200
+    CHUNK_SIZE = 1200
+    CHUNK_OVERLAP = 300
     
     EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 
