@@ -8,8 +8,8 @@ load_dotenv()
 class Settings:
     PROJECT_NAME = "RAG Chatbot"
     
-    DATA_PATH = "data/main_notes.pdf"
-    VECTOR_DB_PATH = "vector_db/"
+    # DATA_PATH = "data/main_notes.pdf"
+    # VECTOR_DB_PATH = "vector_db/"
     
     CHUNK_SIZE = 1200
     CHUNK_OVERLAP = 300
